@@ -4,6 +4,9 @@ Install msmtp
 ```
 sudo dnf install msmtp -y
 ```
+
+2 Factor authentication should be switched on, go to your google account and switch on. Then
+
 Create your app-password in Google
 ```
 https://myaccount.google.com/apppasswords
